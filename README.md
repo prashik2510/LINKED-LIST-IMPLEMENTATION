@@ -16,4 +16,5 @@
   each node contains two components:
   
 -Data - The actual data stored in the node.
+
 -Next - A reference (or pointer) to the next node in the list.
